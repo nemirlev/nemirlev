@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nemirlev
 - 👀 I’m interested in php, golang, devops
-- 🌱 I’m currently learning golang and microservice architecture
-- 💞️ I’m looking to collaborate on intrested php projects
+- 💞️ I’m looking to collaborate on intrested projects
 - 📫 U can reach me at telgram - @nemirlev
